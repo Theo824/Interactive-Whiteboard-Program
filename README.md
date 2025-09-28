@@ -1,6 +1,8 @@
 Programmed two Raspberry Pis to communicate and exchange drawings in real time over UART through a GUI, 
 using my own handshake protocol for synchronisation.
 
+The GUI was developed using the cross-platform IDE Qt Creator.
+
 Created two threads: serialise and deserialise, 
 with the serialise thread encoding the QT points into bits 
 and sending them through its own UART-like communication with my independently made handshake protocol.
