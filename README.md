@@ -5,7 +5,7 @@ The GUI was developed using the cross-platform IDE Qt Creator.
 
 Created two threads: serialise and deserialise, 
 with the serialise thread encoding the QT points into bits 
-and sending them through its own UART-like communication with my independently made handshake protocol.
+and sending them through my own UART-like communication with my independently made handshake protocol.
 
 <img width="595" height="283" alt="HandshakeProtocol" src="https://github.com/user-attachments/assets/9a721c40-91e9-4134-bde6-a1265ddad1f9" />
 
