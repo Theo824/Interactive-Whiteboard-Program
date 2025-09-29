@@ -1,4 +1,4 @@
-Developed an Interactive Whiteboard program in C++ as my final project for the first-year Advanced Programming course.
+Developed an Interactive Whiteboard program in QT C++ as my final task for the first-year Advanced Programming module.
 
 Programmed two Raspberry Pis to communicate and exchange drawings in real time over UART through a GUI, 
 using my own handshake protocol for synchronisation.
