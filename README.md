@@ -1,3 +1,5 @@
+Developed an Interactive Whiteboard program in C++ as my final project for the first-year Advanced Programming course.
+
 Programmed two Raspberry Pis to communicate and exchange drawings in real time over UART through a GUI, 
 using my own handshake protocol for synchronisation.
 
